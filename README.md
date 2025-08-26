@@ -50,13 +50,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=w41bu1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-</div>
-
-###
-
-<div align="center">
   <img alt="snake eating my contributions" src="https://github.com/w41bu1/w41bu1/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
