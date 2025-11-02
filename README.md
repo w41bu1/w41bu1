@@ -2,20 +2,7 @@
 
 ###
 
-<h3 align="center">🕵️‍♂️ Cybersecurity enthusiast</h3>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  ✨ Creating bugs since 2024<br>
-  📚 I'm currently learning Web Pentest<br>
-  🎯 Goals: Cybersecurity Researcher & Red Teamer<br>
-  🎲 Fun fact: I break things just to learn how to fix them 🔧💥
-</p>
+<h3 align="center">Security Research & Penetration Tester</h3>
 
 ###
 
